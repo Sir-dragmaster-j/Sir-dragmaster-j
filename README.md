@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 (img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/visuals-network-connectivity-7VzgMsB6FLCilwS30v")
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sir-dragmaster-j&label=Profile%20views&color=0e75b6&style=flat" alt="sir-dragmaster-j" /> </p>
+<p align="left"> <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnQwbG1uMTI0ZHV5NTV2c3NvNjB6MnM4dm9lcGZvYmpjdjJueWpvNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7VzgMsB6FLCilwS30v/giphy.webp" /> </p>
 
 - 📫 How to reach me **sujayj777@gmail.com**
 
