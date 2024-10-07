@@ -1,4 +1,4 @@
-[![MasterHead](https://as1.ftcdn.net/v2/jpg/07/17/60/74/1000_F_717607430_uTPrGMUWkxxcNjBBGbGGGHRIISTk6feg.jpg)](https://github.com/Sir-dragmaster-j/Sir-dragmaster-j/edit/main/README.md)
+[![MasterHead](https://t3.ftcdn.net/jpg/02/68/48/86/240_F_268488616_wcoB2JnGbOD2u3bpn2GPmu0KJQ4Ah66T.jpg)](https://github.com/Sir-dragmaster-j/Sir-dragmaster-j/edit/main/README.md)
 <h1 align="center">Hi 👋, I'm Sujay.j</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
