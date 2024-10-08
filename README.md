@@ -1,7 +1,7 @@
 [![MasterHead](https://4.bp.blogspot.com/-6vGvy4vCcvE/Xdcwnaf7XzI/AAAAAAAANZM/Io2mm8SXjmUVCo60byOn-XpLUpn54nizACLcBGAsYHQ/s1600/image1.gif)
 <h1 align="center">Hi 👋, I'm Sujay.j</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" src="https://www.simontechway.com/wp-content/uploads/2020/04/dev-gif.gif">
+<img align="right" src="https://www.simontechway.com/wp-content/uploads/2020/04/dev-gif.gif" width=100>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sir-dragmaster-j&label=Profile%20views&color=0e75b6&style=flat" alt="sir-dragmaster-j" /> </p>
 
