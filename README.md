@@ -1,10 +1,12 @@
-<!-- 💜 Futuristic Neon-Themed GitHub Profile README for Sujay J -->
+<!-- 💜 Sujay J - Futuristic Purple Flow GitHub Profile (Final Version) -->
 
-<!-- Header Animation -->
-![Header](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
+<!-- Header with Flowing Purple Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored-purple.gif" width="100%" height="4px">
+</p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&duration=2800&pause=1000&color=BC00FF&center=true&vCenter=true&width=500&lines=Hey+there+👋;I'm+Sujay+J;Frontend+Developer+💻;Machine+Learning+Enthusiast+🤖;AI+%26+Computer+Vision+Explorer+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=30&pause=1000&color=BC00FF&center=true&vCenter=true&width=500&lines=Hey+I'm+Sujay+J;Frontend+Developer+💻;Machine+Learning+Enthusiast+🤖;AI+%26+Computer+Vision+Explorer+🚀;From+India+🇮🇳" alt="Typing Animation" />
 </h1>
 
 <p align="center">
@@ -13,7 +15,7 @@
 
 ---
 
-## 🧠 About Me  
+### 🧠 About Me  
 > Passionate about crafting sleek interfaces and building smart ML-powered systems.  
 > Blending creativity with logic to design, automate, and innovate 🚀  
 
@@ -25,23 +27,23 @@
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,react,opencv,mongodb,mysql,git,github,vscode,arduino" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,react,opencv,mongodb,mysql,git,github,vscode,arduino&theme=dark" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+### 🏆 GitHub Trophies  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sir-dragmaster-j&theme=radical&no-frame=true&margin-w=10&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sir-dragmaster-j&theme=radical&no-frame=true&no-bg=true&margin-w=10" />
 </p>
 
 ---
 
-## 📈 GitHub Stats & Analytics  
+### 📊 GitHub Stats & Analytics  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sir-dragmaster-j&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sir-dragmaster-j&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sir-dragmaster-j&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
@@ -51,45 +53,52 @@
 
 ---
 
-## 🌐 Connect With Me  
+### 🚀 Featured Projects  
+
+#### 🔹 [Lane-Follower-Robot](https://github.com/Sir-dragmaster-j/lane-follower-robot)
+An autonomous lane-following robot using Arduino and IR sensors.  
+🧩 Features obstacle avoidance and dynamic path rejoining.  
+**Tech:** C++, Embedded C, Arduino, IoT  
+
+#### 🖱️ [Hand-Gesture-Mouse](https://github.com/Sir-dragmaster-j/Hand-Gesture-Mouse)
+A real-time virtual mouse using OpenCV & Mediapipe for hand tracking.  
+**Tech:** Python, OpenCV, Mediapipe  
+
+#### 🎰 [Blackjack-Casino](https://github.com/Sir-dragmaster-j/Blackjack-Casino)
+Python-based Blackjack game with GUI & database integration.  
+**Tech:** Python, SQLite, Tkinter  
+
+#### 🚘 [TeslaShowcaseSite-](https://github.com/Sir-dragmaster-j/TeslaShowcaseSite-)
+A Tesla-inspired frontend website clone showcasing smooth UI/UX.  
+**Tech:** HTML, CSS  
+
+#### 🧵 [Image-Processing-with-Filters-and-Histograms](https://github.com/Sir-dragmaster-j/Image-Processing-with-Filters-and-Histograms)
+An image enhancement and analysis toolkit with filtering and histogram visualization.  
+**Tech:** Python, OpenCV  
+
+---
+
+### 💜 Aesthetic Flow (Animated Divider)
 <p align="center">
-  <a href="https://kaggle.com/sujai200407" target="_blank"><img src="https://img.shields.io/badge/Kaggle-%2300BFFF.svg?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
-  <a href="https://instagram.com/sinster_persona_7" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.codechef.com/users/sujay077" target="_blank"><img src="https://img.shields.io/badge/CodeChef-%238A2BE2.svg?style=for-the-badge&logo=codechef&logoColor=white" /></a>
-  <a href="mailto:sujayj777@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored-purple.gif" width="100%" height="4px">
 </p>
 
 ---
 
-## 🪄 Achievements  
-- 🧭 **Autonomous Car through Lane Detection**  
-- 🖱️ **Hand Gesture Mouse using OpenCV**  
-- 🚘 **Tesla Homepage Clone (Frontend)**  
-- 🧵 **AI-Based Fabric Defect Detection (PNMFD Model)**  
-
----
-
-## 💜 Aesthetic Flow (Animated Divider)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
-</p>
-
----
-
-## 💬 Quote I Live By  
-> *“Code is like art — the cleaner it is, the louder it speaks.”* 🎨
+### 💬 Quote I Live By  
+> *“Code is like art — the cleaner it is, the louder it speaks.”* 🎨  
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sir-dragmaster-j&label=Profile%20Views&color=purple&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=sir-dragmaster-j&label=PROFILE%20VIEWS&color=8A2BE2&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <img src="https://i.gifer.com/origin/da/da203e3f0a87b4d00bb251a25e3cdd8c_w200.gif" width="80">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored-purple.gif" width="100%" height="4px">
 </p>
 
 ---
 
-⭐ **If you like this README, drop a star or follow!**  
+⭐ **If you like my work, drop a star or follow!**  
 💜 *Made with passion by Sujay J*
