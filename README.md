@@ -6,7 +6,6 @@
 <h1 align="center">Yoo, what's up? 😎 I'm Sujay J</h1>
 <h3 align="center">Turning caffeine ☕ into clean code 💻 | ML & AI Enthusiast 🚀</h3>
 
-
 <p align="center">
   <img src="https://i.pinimg.com/originals/68/12/7a/68127a4f7cf8c61a0b697b7a4f1a3e0c.gif" width="800"/>
 </p>
