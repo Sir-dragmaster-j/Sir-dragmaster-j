@@ -40,7 +40,7 @@
 
 ## 📈 GitHub Stats & Analytics  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sir-dragmaster-j&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sir-dragmaster-j&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
   <img src="https://streak-stats.demolab.com?user=sir-dragmaster-j&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
