@@ -33,7 +33,7 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sir-dragmaster-j&theme=radical&no-frame=true&margin-w=10&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sujay-j7&theme=radical&no-frame=true&margin-w=10&row=1" />
 </p>
 
 ---
@@ -42,17 +42,17 @@
 <p align="center">
 
   <!-- STABLE GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=sir-dragmaster-j&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sujay-j7&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165" />
 
   <!-- STABLE Streak Stats -->
-  <img src="https://streak-stats.demolab.com/?user=sir-dragmaster-j&theme=tokyonight&hide_border=true&date_format=M%20j%5B,%20Y%5D" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=Sujay-j7&theme=tokyonight&hide_border=true&date_format=M%20j%5B,%20Y%5D" height="165" />
 
 </p>
 
 <p align="center">
 
   <!-- STABLE Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sir-dragmaster-j&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujay-j7&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="160" />
 
 </p>
 
@@ -82,7 +82,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sir-dragmaster-j&label=PROFILE+VIEWS&color=7F00FF&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Sujay-j7&label=PROFILE+VIEWS&color=7F00FF&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <p align="center">
