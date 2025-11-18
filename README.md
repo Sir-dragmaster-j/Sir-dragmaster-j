@@ -1,6 +1,6 @@
 <!-- 💜 Futuristic Neon-Themed GitHub Profile README for Sujay J -->
 
-<!-- Header Animation (Fixed and working) -->
+<!-- Header Animation -->
 ![Header](https://media.licdn.com/dms/image/v2/D5616AQHTmzZugNIZwg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1698503282936?e=1764201600&v=beta&t=lBHUddveFzDJextahViAM5lgR-3GnMlmi3HkrjX-jhk)
 
 <h1 align="center">Yoo, what's up? 😎 I'm Sujay J</h1>
@@ -39,13 +39,15 @@
 ---
 
 ## 📈 GitHub Stats & Analytics  
+
+<!-- 🔥 Using PERMANENT API-FREE MIRROR (Never breaks) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sir-dragmaster-j&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://streak-stats.demolab.com?user=sir-dragmaster-j&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats-seven-eta.vercel.app/api?username=sir-dragmaster-j&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats-seven.vercel.app?user=sir-dragmaster-j&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sir-dragmaster-j&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats-seven-eta.vercel.app/api/top-langs/?username=sir-dragmaster-j&layout=compact&theme=tokyonight&hide_border=true" height="160" />
 </p>
 
 ---
