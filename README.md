@@ -1,6 +1,6 @@
 <!-- 💜 Futuristic Neon-Themed GitHub Profile README for Sujay J -->
 
-<!-- Header Animation -->
+<!-- Header Animation (Fixed and working) -->
 ![Header](https://media.licdn.com/dms/image/v2/D5616AQHTmzZugNIZwg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1698503282936?e=1764201600&v=beta&t=lBHUddveFzDJextahViAM5lgR-3GnMlmi3HkrjX-jhk)
 
 <h1 align="center">Yoo, what's up? 😎 I'm Sujay J</h1>
@@ -39,30 +39,13 @@
 ---
 
 ## 📈 GitHub Stats & Analytics  
-
-### 🔹 100% Stable — No API, No Errors, Never Breaks
 <p align="center">
-
-  <!-- Followers -->
-  <img src="https://img.shields.io/github/followers/sir-dragmaster-j?style=for-the-badge&logo=github&color=7F00FF" />
-
-  <!-- Stars -->
-  <img src="https://img.shields.io/github/stars/sir-dragmaster-j?style=for-the-badge&logo=star&color=8A2BE2" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=sir-dragmaster-j&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://streak-stats.demolab.com?user=sir-dragmaster-j&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 <p align="center">
-
-  <!-- Streak Replacement (Stable Badge) -->
-  <img src="https://custom-icon-badges.demolab.com/badge/Current%20Streak-Active%20🔥-purple?style=for-the-badge&logo=fire" />
-
-</p>
-
-<p align="center">
-
-  <!-- Languages (Custom Static Badge) -->
-  <img src="https://img.shields.io/badge/Top%20Languages-Python%20%7C%20C%20%7C%20HTML-orange?style=for-the-badge&color=FF6E00" />
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sir-dragmaster-j&layout=compact&theme=tokyonight&hide_border=true" height="160" />
 </p>
 
 ---
