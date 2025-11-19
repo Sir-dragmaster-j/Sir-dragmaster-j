@@ -36,6 +36,7 @@
 
 ## 🧰 Languages & Tools
 <p align="left">
+
 <a href="https://www.arduino.cc/"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40"/></a>
 <a href="https://aws.amazon.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/></a>
 <a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/></a>
@@ -59,6 +60,7 @@
 <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/></a>
 <a href="https://spring.io/"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40"/></a>
 <a href="https://vuejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40"/></a>
+
 </p>
 
 ---
@@ -84,7 +86,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sujay-j7&show_icons=true&locale=en&theme=tokyonight" height="170" />
 </p>
 
-### 🔹 Streak Stats
+### 🔹 Streak Stats (Fixed)
 <p>
-  <img align="center" src="https://streak-stats.demolab.com?user=sujay-j7&theme=tokyonight" height="170" />
+  <img align="center" src="https://streak-stats.demolab.com?user=sujay-j7&theme=tokyonight&hide_border=true" height="170" />
 </p>
