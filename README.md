@@ -20,24 +20,7 @@
 - 🚗 Working on: **Autonomous Systems & OpenCV Projects**
 - 🎨 Passion: **Frontend UI + aesthetic design**
 - 📫 Email: **sujayj777@gmail.com**
-- 🎧 Fun Fact: *Coding productivity +200% with music*
-
----
-
-# 🏆 GitHub Trophies  
-### (Stable version + Built-in fallback)
-
-<!-- Trophies (Main) -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sujay-j7&theme=tokyonight&no-frame=false&margin-w=15&row=1&column=6" />
-</p>
-
-<!-- Trophies Fallback (never breaks) -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Achievement-Autonomous%20Car-8A2BE2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Skill-OpenCV-00BFFF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Skill-Frontend-FF6EC7?style=for-the-badge" />
-</p>
+- 🎧 Fun Fact: *Coding speed +200% with music*
 
 ---
 
@@ -50,16 +33,23 @@
 
 ---
 
-# ⚙️ Tech Stack
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sujay-j7&theme=tokyonight&no-frame=true&margin-w=20" />
+</p>
+
+---
+
+## ⚙️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,arduino,linux,aws,gcp,docker" />
 </p>
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
-## 🔥 Stats + Streak + Languages (ALL WORKING)
+### 🔥 Stats + Streak + Languages (All Working)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sujay-j7&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
@@ -72,8 +62,8 @@
 
 ---
 
-## 🧰 Full Tools Collection
-<p align="center">
+## 🧰 Full Tools Collection  
+<p align="left" align="center">
 <a href="https://www.arduino.cc/"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40"></a>
 <a href="https://aws.amazon.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"></a>
 <a href="https://cloud.google.com"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40"></a>
@@ -90,7 +80,7 @@
 
 ---
 
-## ☕ Support Me
+## ☕ Support My Work  
 <p align="center">
   <a href="https://www.buymeacoffee.com/sujayj">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210">
