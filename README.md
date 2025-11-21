@@ -33,10 +33,14 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sujay-j7&theme=radical&no-frame=false&margin-w=15" />
+  <img src="https://img.shields.io/badge/🏅%20Achievements-Purple%20Zone-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/⭐%20Top%20Skill-OpenCV-%2300BFFF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🚀%20Frontend%20Dev-Expert-FF6EC7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🤖%20AI%20Projects%20-%20Active-4B0082?style=for-the-badge" />
 </p>
+
 
 
 ---
