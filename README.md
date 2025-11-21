@@ -35,8 +35,9 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sujay-j7&theme=tokyonight&no-frame=true&margin-w=20" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sujay-j7&theme=radical&no-frame=false&margin-w=15" />
 </p>
+
 
 ---
 
